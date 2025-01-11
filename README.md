@@ -2,25 +2,17 @@
 
 <img src="./assembly_guide/images/400_full_rover.png" width="22%"></img>
 
-- [Assembly Guide](#assembly-guide)
-- [Required Parts](#required-parts)
-  - [goBILDA Parts](#gobilda-parts)
-  - [Generic Parts](#generic-parts)
-  - [Lasercut Parts](#lasercut-parts)
-
 ## Assembly Guide
 
-Already got all required parts? See the [Mechanical Assembly Guide](./assembly_guide/readme.md)!
+👉 [`Mechanical Assembly Guide`](./assembly_guide/readme.md)
 
 ## Required Parts
 
-This is a summary of all the mechanical parts you need to build the rover.
+This is a summary of all the mechanical parts you need to build the rover. The amount is always the number of the `individual parts`. Some parts are sold in `(packs)`. The number in brackets indicates, how many packs you need.
 
 > ⚠️ Be very careful when ordering the parts! Many parts have multiple variants, some with very small differences. It is important that you get the exact parts listed!
 
-### goBILDA Parts
-
-The amount is always the number of the `individual parts`. Some parts are sold in `(packs)`. The number in brackets indicates, how many packs you need.
+#### goBILDA Parts
 
 | Amount | Part                                                                                                                             | Part Number    | Link                                                                                                                                  | Chapter                         |
 | :----: | -------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
@@ -70,7 +62,7 @@ The amount is always the number of the `individual parts`. Some parts are sold i
 |   6    | 5203 Series Yellow Jacket Planetary Gear Motor (26.9:1 Ratio, **24mm Length** **8mm REX™** Shaft, **223 RPM**, 3.3 - 5V Encoder) | 5203-2402-0027 | https://www.gobilda.com/5203-series-yellow-jacket-planetary-gear-motor-26-9-1-ratio-24mm-length-8mm-rex-shaft-223-rpm-3-3-5v-encoder/ | Wheels                          |
 | 55 (3) | `M4` x 0.7mm Nylock Nut - 25 Pack                                                                                                | 2812-0004-0007 | https://www.gobilda.com/m4-x-0-7mm-nylock-nut/?sku=2812-0004-0007                                                                     |                                 |
 
-### Generic Parts
+#### Generic Parts
 
 | Amount | Part                          |
 | :----: | ----------------------------- |
@@ -83,7 +75,7 @@ The amount is always the number of the `individual parts`. Some parts are sold i
 |   4    | `M4 x 20mm` Socket Head Screw |
 |   32   | `M4 x 0.1mm` Washer           |
 
-### Lasercut Parts
+#### Lasercut Parts
 
 | Amount | Part            | File                                                         |
 | :----: | --------------- | ------------------------------------------------------------ |
