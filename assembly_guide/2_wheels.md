@@ -31,7 +31,7 @@
 
 Screw the _144mm goRAIL_ to the _U-Channel_ first using 10mm button head screws. Install the _Clamping Mount_ with 6mm button head screws and the _Low-Side U-Channel_ with the 12mm socket head screws.
 
-⚠️ Remember to feed the required cables through the _goRAIL_ before installing the motor.
+> ⚠️ Remember to feed the required cables through the _goRAIL_ before installing the motor.
 
 Insert the motor into the _Clamping Mount_ so that the dark gray part of the motor lines up with the edge of the _U-Channel_. The _Hyper Hub_ should be flush with the end of the motor shaft Install the wheel using 12mm socket head screws. The deeper side of the wheel should face the _Hyper Hub_ and hide the whole front of the motor.
 
@@ -64,11 +64,11 @@ Insert the motor into the _Clamping Mount_ so that the dark gray part of the mot
 
 Screw the _96mm goRAIL_ to the _U-Channel_ first using 10mm button head screws.
 
-⚠️ Make sure the open side of the _goRAIL_ points towards the back of the motor away from the wheel!
+> ⚠️ Make sure the open side of the _goRAIL_ points towards the back of the motor away from the wheel!
 
 Install the _Clamping Mount_ with 6mm button head screws and the _Grid Plate_ with the 12mm socket head screws.
 
-⚠️ Make sure to install the _3 x 5 Grid Plate_ in the correct orientation. It should be perpendicular to the motor.
+> ⚠️ Make sure to install the _3 x 5 Grid Plate_ in the correct orientation. It should be perpendicular to the motor.
 
 Remember to feed the required cables through the _goRAIL_ before installing the motor. Insert the motor into the _Clamping Mount_ so that the dark gray part of the motor lines up with the edge of the _U-Channel_. The _Hyper Hub_ should be flush with the end of the motor shaft Install the wheel using 12mm socket head screws. The deeper side of the wheel should face the _Hyper Hub_ and hide the whole front of the motor.
 
@@ -82,14 +82,14 @@ Remember to feed the required cables through the _goRAIL_ before installing the 
 
 ### Next Steps
 
-🎉 Congratulations on completing the wheel assembly!
+> 🎉 Congratulations on completing the wheel assembly!
 
-- [x] [~~1 Main Body~~](1_main_body.md)
-- [x] [~~2 Wheels~~](2_wheels.md)
+- [x] [1 Main Body](1_main_body.md)
+- [x] 2 Wheels
 - [ ] [3 Rocker Bogie](2_wheels.md)
 - [ ] [4 Final Steps](4_final_steps.md)
 
-Continue with building the [`Rocker Bogie`](3_rocker_bogie.md)!
+Continue with building the [Rocker Bogie](3_rocker_bogie.md)!
 
 ### Required Parts (Wheels)
 

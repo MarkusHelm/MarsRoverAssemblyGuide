@@ -29,7 +29,7 @@
 
 Insert the _Rocker Bogie_ into the _Main Body_, slide another spacer ring onto the end of the _goRAIL_ and screw the _goTUBE Endcap_ onto it using four 10mm button head screws.
 
-⚠️ Use washers between screw heads and plastic parts!
+> ⚠️ Use washers between screw heads and plastic parts!
 
 #### 4.1.1 Insert Left Rocker Bogie
 
@@ -65,7 +65,7 @@ Insert the loose _Steel Ball Bearings_ of the _Rocker Bogies_ into the _U-Channe
 
 #### Assembly Info
 
-> ⚠️ **You need to center the servos before installing the wheels!**  
+> ⚠️ **Center the servos before installing the wheels!**  
 > Upload the provided [servo_centering.ino](../arduino_servo_centering/arduino_servo_centering.ino) sketch to an Arduino compatible device.
 > Connect the red wire (VCC) of the servo to the 5V pin on the Arduino.
 > Connect the black wire (GND) of the servo to one of the GND pins on the Arduino.
@@ -86,7 +86,7 @@ Once the servo is centered, one of the non-threaded holes of the servo shaft sho
 
 #### Assembly Info
 
-> ⚠️ **You need to center the servos before installing the wheels!**  
+> ⚠️ **Center the servos before installing the wheels!**  
 > Upload the provided [servo_centering.ino](../arduino_servo_centering/arduino_servo_centering.ino) sketch to an Arduino compatible device.
 > Connect the red wire (VCC) of the servo to the 5V pin on the Arduino.
 > Connect the black wire (GND) of the servo to one of the GND pins on the Arduino.
@@ -98,12 +98,12 @@ Once the servo is centered, one of the non-threaded holes of the servo shaft sho
 
 ### Next Steps
 
-🎉 Congratulations on building your own little mars rover! 🎉
+> 🎉 Congratulations on building your own little mars rover!
 
-- [x] [~~1 Main Body~~](1_main_body.md)
-- [x] [~~2 Wheels~~](2_wheels.md)
-- [x] [~~3 Rocker Bogie~~](2_wheels.md)
-- [x] [~~4 Final Steps~~](4_final_steps.md)
+- [x] [1 Main Body](1_main_body.md)
+- [x] [2 Wheels](2_wheels.md)
+- [x] [3 Rocker Bogie](2_wheels.md)
+- [x] 4 Final Steps
 
 Continue with the electrical guides to bring your rover to life!
 

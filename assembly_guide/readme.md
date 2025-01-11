@@ -7,7 +7,7 @@
 
 This guide covers all the mechanical steps to build your own little mars rover. The assembly is divided into four chapters to give you a better overview of what needs to be done. Each chapter consists of several assembly steps, each with its own parts list and assembly instructions. You can follow this guide step by step and have your parts ready when you need them.
 
-1. [Main Body `👈 Start here`](1_main_body.md#1-main-body)
+1. [Main Body](1_main_body.md#1-main-body) `👈 Start here`
    - 1.1 [Aluminum Frame](1_main_body.md#11-aluminum-frame)
    - 1.2 [Wall Standoffs](1_main_body.md#12-wall-standoffs)
    - 1.3 [Axis Clamps (2x)](1_main_body.md#13-axis-clamps-2x)

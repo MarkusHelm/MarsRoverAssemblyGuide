@@ -35,7 +35,7 @@
 
 #### Assembly Info
 
-⚠️ Use washers between screw heads and plastic parts!
+> ⚠️ Use washers between screw heads and plastic parts!
 
 Insert the _Flanged Ball Bearing_ into the _Pattern Spacer_. Screw the _Control Arm_ to the _Pattern Spacer_ with the _Flanged Ball Bearing_ facing the _Control Arm_ using 8mm socket head screws. Install the _Flat Bracket_ to holes `3` and `7` of the _Control Arm_ so that the first two holes of the _Control Arms_ are not covered by the _Flat Bracket_. Use 12mm socket head screws and _Hurricane Nuts_ for this. The _Flat Bracket_ will stick out a bit.
 
@@ -58,7 +58,7 @@ Insert the _Flanged Ball Bearing_ into the _Pattern Spacer_. Screw the _Control 
 
 Insert the shaft into the _Sonic Hub_ and tighten the _Sonic Hub_ in the center of the shaft. Screw the _Pattern Mounts_ to each side of the _Sonic Hub_ using 6mm button head screws. The flat side of the _Pattern Mounts_ must face towards the _Sonic Hub_.
 
-⚠️ Pay attention to the two different spacer lengths!
+> ⚠️ Pay attention to the two different spacer lengths!
 
 Slide the _4mm Spacer_ onto the shaft on the side where the _Sonic Hub_ is slightly further out and the _6mm Spacer_ on the side where the _Sonic Hub_ is flat.
 
@@ -78,7 +78,7 @@ Slide the _4mm Spacer_ onto the shaft on the side where the _Sonic Hub_ is sligh
 
 Slide one of the _Outer Parts_ onto either side of the _Inner Part_ with the _Hurricane Nuts_ facing inwards. Slide the _goRAIL_ into place until it is flush with the _Flat Bracket_ and tighten the screws.
 
-⚠️ The open side of the _goRAIL_ must face towards one of the _Outer Parts_!
+> ⚠️ The open side of the _goRAIL_ must face towards one of the _Outer Parts_!
 
 <img src="images/303e_hinge_assembly.png" width="45%"></img> <img src="images/303f_hinge_assembly.png.png" width="45%"></img>
 
@@ -93,9 +93,9 @@ Slide one of the _Outer Parts_ onto either side of the _Inner Part_ with the _Hu
 
 #### Assembly Info
 
-💡 Insert the _Servo_ first. Assemble the rest of the _Servo Block_ loosely. Attach the shaft to the servo first before tightening all the screws.
+> 💡 Insert the _Servo_ first. Assemble the rest of the _Servo Block_ loosely. Attach the shaft to the servo first before tightening all the screws.
 
-⚠️ Secure the shaft to the servo with the included M3 screw that is included with the servo itself!
+> ⚠️ Secure the shaft to the servo with the included M3 screw that is included with the servo itself!
 
 <img src="images/304e_servo_block.png" width="45%"></img> <img src="images/304f_servo_block.png" width="45%"></img>
 
@@ -117,13 +117,13 @@ Screw the _U-Channel_ to the _goRAIL_ first using 12mm socket head screws, befor
 
 #### 3.5.1 Left Rear Servo Arm
 
-⚠️ The open side of the _goRAIL_ faces to the right side when looking from the _Servo Block_ (away from the camera in the following image).
+> ⚠️ The open side of the _goRAIL_ faces to the right side when looking from the _Servo Block_ (away from the camera in the following image).
 
 <img src="images/305le_rear_servo_arm.png" width="45%"></img> <img src="images/305lf_rear_servo_arm.png" width="45%"></img>
 
 #### 3.5.2 Right Rear Servo Arm
 
-⚠️ The open side of the _goRAIL_ faces to the left side when looking from the _Servo Block_ (away from the camera in the following image).
+> ⚠️ The open side of the _goRAIL_ faces to the left side when looking from the _Servo Block_ (away from the camera in the following image).
 
 <img src="images/305re_rear_servo_arm.png" width="45%"></img> <img src="images/305rf_rear_servo_arm.png" width="45%"></img>
 
@@ -144,19 +144,19 @@ Screw the _U-Channel_ to the _goRAIL_ first using 12mm socket head screws, befor
 
 Screw the _U-Channel_ and _Grid Plate_ to the _goRAIL_ first using 12mm socket head screws.
 
-⚠️ Make sure to install the _3 x 5 Grid Plate_ in the correct orientation. It should stick out at the top and bottom, not to the sides.
+> ⚠️ Make sure to install the _3 x 5 Grid Plate_ in the correct orientation. It should stick out at the top and bottom, not to the sides.
 
 Install the _Servo Block_ with 8mm socket head screws. The cable should point towards the _goRAIL_. The _Servo Block_ is supposed to stick out of the _U-Channel_.
 
 #### 3.6.1 Left Front Servo Arm
 
-⚠️ The open side of the _goRAIL_ faces to the left, when looking from the _Servo Block_ (away from the camera in the following image).
+> ⚠️ The open side of the _goRAIL_ faces to the left, when looking from the _Servo Block_ (away from the camera in the following image).
 
 <img src="images/306le_front_servo_arm.png" width="45%"></img> <img src="images/306lf_front_servo_arm.png" width="45%"></img>
 
 #### 3.6.2 Right Front Servo Arm
 
-⚠️ The open side of the _goRAIL_ faces to the right, when looking from the _Servo Block_ (away from the camera in the following image).
+> ⚠️ The open side of the _goRAIL_ faces to the right, when looking from the _Servo Block_ (away from the camera in the following image).
 
 <img src="images/306re_front_servo_arm.png" width="45%"></img> <img src="images/306rf_front_servo_arm.png" width="45%"></img>
 
@@ -180,7 +180,7 @@ Install the _Servo Block_ with 8mm socket head screws. The cable should point to
 
 Install the _Block Mounts_ using 8mm socket head screws with the chamfered edge facing the edge of the _Angle Pattern Bracket_. Do not tighten the screws completely. Use 12mm socket head screws to loosely attach one _Flat Beam_ to each _Block Mount_ on opposite sides. Screw _Steel Ball Linkages_ to both ends of the _Threaded Rod_ until they are about 26mm apart and one is turned 90 degrees. Slide the _Steel Ball Linkage_ between the two _Flat Beams_ and secure it using a 20mm socket head screw and a Nylock nut. Tighten all screws now.
 
-⚠️ When all screws are tightened, the _Block Mounts_ will be at a slight angle. This is expected behavior.
+> ⚠️ When all screws are tightened, the _Block Mounts_ will be at a slight angle. This is expected behavior.
 
 #### 3.7.1 Left Pivot Plate
 
@@ -206,7 +206,7 @@ Install the _Block Mounts_ using 8mm socket head screws with the chamfered edge 
 
 Insert three 6mm button head screws into the ends of the _Grid Bracket_ as shown in the pictures. Loosely fit _Hurricane Nuts_ on the other side. Attach the _Grid Bracket_ to the underside of the _Angle Pattern Bracket_ so that the button head screws and half a hole protrude. Secure it in place with three 8mm socket head screws and slightly loose _Hurricane Nuts_ as seen in the pictures. Add two 6mm screws and _Hurricane Nuts_ to the angled side of the _Angle Pattern Bracket_.
 
-⚠️ The _Hurricane Nuts_ should form two perpendicular lines. One line of five across the fold and a line of three parallel to the fold between the _Flat Brackets_.
+> ⚠️ The _Hurricane Nuts_ should form two perpendicular lines. One line of five across the fold and a line of three parallel to the fold between the _Flat Brackets_.
 
 #### 3.8.1 Left Top Plate
 
@@ -235,11 +235,11 @@ Insert three 6mm button head screws into the ends of the _Grid Bracket_ as shown
 
 Insert four 6mm button head screws into the new _Angle Pattern Bracket_ in the same holes as the _Top Plate_ assembly and loosely secure them with _Hurricane Nuts_.
 
-⚠️ The open side of the _goRAILs_ in the _Hinge Assembly_ and _Rear Servo Arms_ should face towards the center of the _Anlge Pattern Bracket_ and the _Steel Ball Bearing_!
+> ⚠️ The open side of the _goRAILs_ in the _Hinge Assembly_ and _Rear Servo Arms_ should face towards the center of the _Anlge Pattern Bracket_ and the _Steel Ball Bearing_!
 
 Slide the _Rear Servo Arm_ onto the new _Angle Pattern Bracket_ up to the fold and tighten the screws. Slide the _Top Plate_ into the _Rear Servo Arm_ as well, but leave it loose for now. Insert the _Hinge Assembly_ into both _Angle Pattern Brackets_ up to the fold of the bottom one. Tighten the bottom screws. Now insert the _120mm goRAIL_ between the _Angle Pattern Brackets_ below the pivot point up to the _Rear Servo Arm_.
 
-⚠️ The open side of the _120mm goRAIL_ should face sideways towards the _Hinge Assembly_!
+> ⚠️ The open side of the _120mm goRAIL_ should face sideways towards the _Hinge Assembly_!
 
 Once all _goRAILs_ are in place, tighten all remaining screws and slide two spacer rings onto the _120mm goRAIL_.
 
@@ -266,7 +266,7 @@ Once all _goRAILs_ are in place, tighten all remaining screws and slide two spac
 
 Attach the _Front Servo Arm_ and _Middle Wheel_ to the hinge using 12mm socket head screws and _Flat Beams_ as spacers in between.
 
-⚠️ Make sure the open sides of all _goRAILs_ face the same direction, where the main body is going.
+> ⚠️ Make sure the open sides of all _goRAILs_ face the same direction, where the main body is going.
 
 #### 3.10.1 Left Front Assembly
 
@@ -278,14 +278,14 @@ Attach the _Front Servo Arm_ and _Middle Wheel_ to the hinge using 12mm socket h
 
 ### Next Steps
 
-🎉 Congratulations on completing the rocker bogie assembly!
+> 🎉 Congratulations on completing the rocker bogie assembly!
 
-- [x] [~~1 Main Body~~](1_main_body.md)
-- [x] [~~2 Wheels~~](2_wheels.md)
-- [x] [~~3 Rocker Bogie~~](3_rocker_bogie.md)
+- [x] [1 Main Body](1_main_body.md)
+- [x] [2 Wheels](2_wheels.md)
+- [x] 3 Rocker Bogie
 - [ ] [4 Final Steps](4_final_steps.md)
 
-Continue with the [`Final Steps`](4_final_steps.md) to put it all together!
+Continue with the [Final Steps](4_final_steps.md) to put it all together!
 
 ### Required Parts (Rocker Bogie)
 

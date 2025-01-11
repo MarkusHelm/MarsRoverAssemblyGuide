@@ -10,13 +10,13 @@
 
 ## Assembly Guide
 
-Already got all required parts? Follow the [Mechanical Assembly Guide](./assembly_guide/readme.md)!
+Already got all required parts? See the [Mechanical Assembly Guide](./assembly_guide/readme.md)!
 
 ## Required Parts
 
 This is a summary of all the mechanical parts you need to build the rover.
 
-⚠️ Be very careful when ordering the parts! Many parts have multiple variants, some with very small differences. It is important that you get the exact parts listed!
+> ⚠️ Be very careful when ordering the parts! Many parts have multiple variants, some with very small differences. It is important that you get the exact parts listed!
 
 ### goBILDA Parts
 

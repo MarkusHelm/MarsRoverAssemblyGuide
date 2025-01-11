@@ -67,8 +67,8 @@ Standoff mounting position: `15` (center of 29 hole beam)
 
 #### Assembly Info
 
-⚠️ Pay attention to the orientation of the _Pillow Blocks_! The flush sides should face outwards.  
-⚠️ Pay attention to the orientation of the _Dual Block Mounts_! They should be as near to the edge of the _U-Channel_ as possible.
+> ⚠️ Pay attention to the orientation of the _Pillow Blocks_! The flush sides should face outwards.  
+> ⚠️ Pay attention to the orientation of the _Dual Block Mounts_! They should be as near to the edge of the _U-Channel_ as possible.
 
 <img src="images/103e_axis_clamp.png" width="45%"></img> <img src="images/103f_axis_clamp.png" width="45%"></img>
 
@@ -126,7 +126,7 @@ Mounting positions on 29 hole beam: `5` `9` (counting from each edge). The plast
 
 #### Assembly Info
 
-🔃 The 3D model is upside down in the following image!
+> 🔃 The 3D model is upside down in the following image!
 
 <img src="images/107e_bottom_plate.png" width="45%"></img> <img src="images/107f_bottom_plate.png" width="45%"></img>
 
@@ -142,7 +142,7 @@ Mounting positions on 29 hole beam: `5` `9` (counting from each edge). The plast
 
 #### Assembly Info
 
-🔃 The 3D model is upside down in the following image!
+> 🔃 The 3D model is upside down in the following image!
 
 <img src="images/108e_side_plates.png" width="45%"></img> <img src="images/108f_side_plates.png" width="45%"></img>
 
@@ -160,11 +160,11 @@ Mounting positions on 29 hole beam: `5` `9` (counting from each edge). The plast
 
 #### Assembly Info
 
-⚠️ Pay attention to the orientation of the _Back Plate_!
+> ⚠️ Pay attention to the orientation of the _Back Plate_!
 
 Use 6mm screws to secure the plates to the standoffs.
 
-🔃 The 3D model is upside down in the following image!
+> 🔃 The 3D model is upside down in the following image!
 
 <img src="images/109e_front_back_plates.png" width="45%"></img> <img src="images/109f_front_back_plates.png" width="45%"></img>
 
@@ -185,7 +185,7 @@ Use 6mm screws to secure the plates to the standoffs.
 
 Use the 10mm screws to secure the front and back top plates to the plastic hinges. Use the 16mm screws to mount the gap plate to the square beam between the other top plates.
 
-💡 Tighten or loosen the screw inside the hinges to adjust the hinge tension. The top plates should open smoothly and stay in place when opened.
+> 💡 Tighten or loosen the screw inside the hinges to adjust the hinge tension. The top plates should open smoothly and stay in place when opened.
 
 <img src="images/110e_top_plates.png" width="45%"></img> <img src="images/110f_top_plates.png" width="45%"></img>
 
@@ -208,14 +208,14 @@ Secure the _U-Beam_ to the _Idler Bearing-Hub_ using the 6mm button head screws.
 
 ### Next Steps
 
-🎉 Congratulations on completing the main body assembly!
+> 🎉 Congratulations on completing the main body assembly!
 
-- [x] [1 Main Body](1_main_body.md)
+- [x] 1 Main Body
 - [ ] [2 Wheels](2_wheels.md)
 - [ ] [3 Rocker Bogie](2_wheels.md)
 - [ ] [4 Final Steps](4_final_steps.md)
 
-Continue with building the [`Wheels`](2_wheels.md)!
+Continue with building the [Wheels](2_wheels.md)!
 
 ### Required Parts (Main Body)
 
