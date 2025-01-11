@@ -36,7 +36,7 @@ Top beam mounting positions: `2` `28` `30` `40`
 Bottom beam mounting positions: `2` `18` `40`  
 Vertical beam positions: `1` `17` `25` `41`
 
-<img src="images/101e_aluminum_frame.png" width="45%"></img> <img src="images/101f_aluminum_frame.png" width="45%"></img>
+![](images/101e_aluminum_frame.png) ![](images/101f_aluminum_frame.png)
 
 ### 1.2 Wall Standoffs
 
@@ -51,7 +51,7 @@ Vertical beam positions: `1` `17` `25` `41`
 
 Standoff mounting position: `15` (center of 29 hole beam)
 
-<img src="images/102e_wall_standoffs.png" width="45%"></img> <img src="images/102f_wall_standoffs.png" width="45%"></img>
+![](images/102e_wall_standoffs.png) ![](images/102f_wall_standoffs.png)
 
 ### 1.3 Axis Clamps (2x)
 
@@ -70,7 +70,7 @@ Standoff mounting position: `15` (center of 29 hole beam)
 > ⚠️ Pay attention to the orientation of the _Pillow Blocks_! The flush sides should face outwards.  
 > ⚠️ Pay attention to the orientation of the _Dual Block Mounts_! They should be as near to the edge of the _U-Channel_ as possible.
 
-<img src="images/103e_axis_clamp.png" width="45%"></img> <img src="images/103f_axis_clamp.png" width="45%"></img>
+![](images/103e_axis_clamp.png) ![](images/103f_axis_clamp.png)
 
 ### 1.4 Axis Clamp Installation
 
@@ -81,7 +81,7 @@ Standoff mounting position: `15` (center of 29 hole beam)
 
 Axis clamp mounting position: `5` `7` (counting from the bottom)
 
-<img src="images/104e_axis_clamps.png" width="45%"></img> <img src="images/104f_axis_clamps.png" width="45%"></img>
+![](images/104e_axis_clamps.png) ![](images/104f_axis_clamps.png)
 
 ### 1.5 Top Plate Hinges (4x)
 
@@ -96,7 +96,7 @@ Axis clamp mounting position: `5` `7` (counting from the bottom)
 
 #### Assembly Info
 
-<img src="images/105e_top_plate_hinge.png" width="45%"></img> <img src="images/105f_top_plate_hinge.png" width="45%"></img>
+![](images/105e_top_plate_hinge.png) ![](images/105f_top_plate_hinge.png)
 
 ### 1.6 Top Plate Hinge Installation
 
@@ -112,7 +112,7 @@ Axis clamp mounting position: `5` `7` (counting from the bottom)
 
 Mounting positions on 29 hole beam: `5` `9` (counting from each edge). The plastic hinge should point up and be flush with the top of the aluminum frame.
 
-<img src="images/106e_top_plate_hinges.png" width="45%"></img> <img src="images/106f_top_plate_hinges.png" width="45%"></img>
+![](images/106e_top_plate_hinges.png) ![](images/106f_top_plate_hinges.png)
 
 ### 1.7 Bottom Plate
 
@@ -128,7 +128,7 @@ Mounting positions on 29 hole beam: `5` `9` (counting from each edge). The plast
 
 > 🔃 The 3D model is upside down in the following image!
 
-<img src="images/107e_bottom_plate.png" width="45%"></img> <img src="images/107f_bottom_plate.png" width="45%"></img>
+![](images/107e_bottom_plate.png) ![](images/107f_bottom_plate.png)
 
 ### 1.8 Side Plates
 
@@ -144,7 +144,7 @@ Mounting positions on 29 hole beam: `5` `9` (counting from each edge). The plast
 
 > 🔃 The 3D model is upside down in the following image!
 
-<img src="images/108e_side_plates.png" width="45%"></img> <img src="images/108f_side_plates.png" width="45%"></img>
+![](images/108e_side_plates.png) ![](images/108f_side_plates.png)
 
 ### 1.9 Front and Back Plates
 
@@ -166,7 +166,7 @@ Use 6mm screws to secure the plates to the standoffs.
 
 > 🔃 The 3D model is upside down in the following image!
 
-<img src="images/109e_front_back_plates.png" width="45%"></img> <img src="images/109f_front_back_plates.png" width="45%"></img>
+![](images/109e_front_back_plates.png) ![](images/109f_front_back_plates.png)
 
 ### 1.10 Top Plates
 
@@ -187,7 +187,7 @@ Use the 10mm screws to secure the front and back top plates to the plastic hinge
 
 > 💡 Tighten or loosen the screw inside the hinges to adjust the hinge tension. The top plates should open smoothly and stay in place when opened.
 
-<img src="images/110e_top_plates.png" width="45%"></img> <img src="images/110f_top_plates.png" width="45%"></img>
+![](images/110e_top_plates.png) ![](images/110f_top_plates.png)
 
 ### 1.11 Differential Pivot
 
@@ -204,7 +204,7 @@ Use the 10mm screws to secure the front and back top plates to the plastic hinge
 
 Secure the _U-Beam_ to the _Idler Bearing-Hub_ using the 6mm button head screws. Slide them into the _U-Beam_ through hole `20` and `22` and use an allen key to tighten them. Then mount the _Idler Bearing-Hub_ to the aluminum frame using the 16mm socket head screws.
 
-<img src="images/111e_differential_pivot.png" width="45%"></img> <img src="images/111f_differential_pivot.png" width="45%"></img>
+![](images/111e_differential_pivot.png) ![](images/111f_differential_pivot.png)
 
 ### Next Steps
 

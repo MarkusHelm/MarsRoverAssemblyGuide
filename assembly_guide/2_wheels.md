@@ -37,11 +37,11 @@ Insert the motor into the _Clamping Mount_ so that the dark gray part of the mot
 
 #### 2.1.1 Left Corner Wheel (2x)
 
-<img src="images/201le_corner_wheel.png" width="45%"></img> <img src="images/201lf_corner_wheel.png" width="45%"></img>
+![](images/201le_corner_wheel.png) ![](images/201lf_corner_wheel.png)
 
 #### 2.1.2 Right Corner Wheel (2x)
 
-<img src="images/201re_corner_wheel.png" width="45%"></img> <img src="images/201rf_corner_wheel.png" width="45%"></img>
+![](images/201re_corner_wheel.png) ![](images/201rf_corner_wheel.png)
 
 ### 2.2 Middle Wheels (L/R)
 
@@ -74,11 +74,11 @@ Remember to feed the required cables through the _goRAIL_ before installing the 
 
 #### 2.2.1 Left Middle Wheel
 
-<img src="images/202le_middle_wheel.png" width="45%"></img> <img src="images/202lf_middle_wheel.png" width="45%"></img>
+![](images/202le_middle_wheel.png) ![](images/202lf_middle_wheel.png)
 
 #### 2.2.2 Right Middle Wheel
 
-<img src="images/202re_middle_wheel.png" width="45%"></img> <img src="images/202rf_middle_wheel.png" width="45%"></img>
+![](images/202re_middle_wheel.png) ![](images/202rf_middle_wheel.png)
 
 ### Next Steps
 

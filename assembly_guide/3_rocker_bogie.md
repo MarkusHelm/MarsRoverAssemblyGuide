@@ -39,7 +39,7 @@
 
 Insert the _Flanged Ball Bearing_ into the _Pattern Spacer_. Screw the _Control Arm_ to the _Pattern Spacer_ with the _Flanged Ball Bearing_ facing the _Control Arm_ using 8mm socket head screws. Install the _Flat Bracket_ to holes `3` and `7` of the _Control Arm_ so that the first two holes of the _Control Arms_ are not covered by the _Flat Bracket_. Use 12mm socket head screws and _Hurricane Nuts_ for this. The _Flat Bracket_ will stick out a bit.
 
-<img src="images/301e_outer_hinge.png" width="45%"></img> <img src="images/301f_outer_hinge.png" width="45%"></img>
+![](images/301e_outer_hinge.png) ![](images/301f_outer_hinge.png)
 
 ### 3.2 Hinge Inner Part (2x)
 
@@ -62,7 +62,7 @@ Insert the shaft into the _Sonic Hub_ and tighten the _Sonic Hub_ in the center 
 
 Slide the _4mm Spacer_ onto the shaft on the side where the _Sonic Hub_ is slightly further out and the _6mm Spacer_ on the side where the _Sonic Hub_ is flat.
 
-<img src="images/302e_inner_hinge.png" width="45%"></img> <img src="images/302f_inner_hinge.png" width="45%"></img>
+![](images/302e_inner_hinge.png) ![](images/302f_inner_hinge.png)
 
 ### 3.3 Hinge Assembly (2x)
 
@@ -80,7 +80,7 @@ Slide one of the _Outer Parts_ onto either side of the _Inner Part_ with the _Hu
 
 > ⚠️ The open side of the _goRAIL_ must face towards one of the _Outer Parts_!
 
-<img src="images/303e_hinge_assembly.png" width="45%"></img> <img src="images/303f_hinge_assembly.png.png" width="45%"></img>
+![](images/303e_hinge_assembly.png) ![](images/303f_hinge_assembly.png.png)
 
 ### 3.4 Servo Block (4x)
 
@@ -95,9 +95,9 @@ Slide one of the _Outer Parts_ onto either side of the _Inner Part_ with the _Hu
 
 > 💡 Insert the _Servo_ first. Assemble the rest of the _Servo Block_ loosely. Attach the shaft to the servo first before tightening all the screws.
 
-> ⚠️ Secure the shaft to the servo with the included M3 screw that is included with the servo itself!
+> ⚠️ Secure the shaft to the servo with the M3 screw included with the servo!
 
-<img src="images/304e_servo_block.png" width="45%"></img> <img src="images/304f_servo_block.png" width="45%"></img>
+![](images/304e_servo_block.png) ![](images/304f_servo_block.png)
 
 ### 3.5 Rear Servo Arm (L/R)
 
@@ -119,13 +119,13 @@ Screw the _U-Channel_ to the _goRAIL_ first using 12mm socket head screws, befor
 
 > ⚠️ The open side of the _goRAIL_ faces to the right side when looking from the _Servo Block_ (away from the camera in the following image).
 
-<img src="images/305le_rear_servo_arm.png" width="45%"></img> <img src="images/305lf_rear_servo_arm.png" width="45%"></img>
+![](images/305le_rear_servo_arm.png) ![](images/305lf_rear_servo_arm.png)
 
 #### 3.5.2 Right Rear Servo Arm
 
 > ⚠️ The open side of the _goRAIL_ faces to the left side when looking from the _Servo Block_ (away from the camera in the following image).
 
-<img src="images/305re_rear_servo_arm.png" width="45%"></img> <img src="images/305rf_rear_servo_arm.png" width="45%"></img>
+![](images/305re_rear_servo_arm.png) ![](images/305rf_rear_servo_arm.png)
 
 ### 3.6 Front Servo Arm (L/R)
 
@@ -152,13 +152,13 @@ Install the _Servo Block_ with 8mm socket head screws. The cable should point to
 
 > ⚠️ The open side of the _goRAIL_ faces to the left, when looking from the _Servo Block_ (away from the camera in the following image).
 
-<img src="images/306le_front_servo_arm.png" width="45%"></img> <img src="images/306lf_front_servo_arm.png" width="45%"></img>
+![](images/306le_front_servo_arm.png) ![](images/306lf_front_servo_arm.png)
 
 #### 3.6.2 Right Front Servo Arm
 
 > ⚠️ The open side of the _goRAIL_ faces to the right, when looking from the _Servo Block_ (away from the camera in the following image).
 
-<img src="images/306re_front_servo_arm.png" width="45%"></img> <img src="images/306rf_front_servo_arm.png" width="45%"></img>
+![](images/306re_front_servo_arm.png) ![](images/306rf_front_servo_arm.png)
 
 ### 3.7 Pivot Plate (L/R)
 
@@ -184,11 +184,11 @@ Install the _Block Mounts_ using 8mm socket head screws with the chamfered edge 
 
 #### 3.7.1 Left Pivot Plate
 
-<img src="images/307le_pivot_plate.png" width="45%"></img> <img src="images/307lf_pivot_plate.png" width="45%"></img>
+![](images/307le_pivot_plate.png) ![](images/307lf_pivot_plate.png)
 
 #### 2.7.2 Right Pivot Plate
 
-<img src="images/307re_pivot_plate.png" width="45%"></img> <img src="images/307rf_pivot_plate.png" width="45%"></img>
+![](images/307re_pivot_plate.png) ![](images/307rf_pivot_plate.png)
 
 ### 3.8 Top Plate (L/R)
 
@@ -210,11 +210,11 @@ Insert three 6mm button head screws into the ends of the _Grid Bracket_ as shown
 
 #### 3.8.1 Left Top Plate
 
-<img src="images/308le_top_plate.png" width="45%"></img> <img src="images/308lf_top_plate.png" width="45%"></img>
+![](images/308le_top_plate.png) ![](images/308lf_top_plate.png)
 
 #### 3.8.2 Right Top Plate
 
-<img src="images/308re_top_plate.png" width="45%"></img> <img src="images/308rf_top_plate.png" width="45%"></img>
+![](images/308re_top_plate.png) ![](images/308rf_top_plate.png)
 
 ### 3.9 Rocker Bogie Rear Assembly (L/R)
 
@@ -245,11 +245,11 @@ Once all _goRAILs_ are in place, tighten all remaining screws and slide two spac
 
 #### 3.9.1 Left Rear Assembly
 
-<img src="images/309le_rear_assembly.png" width="45%"></img> <img src="images/309lf_rear_assembly.png" width="45%"></img>
+![](images/309le_rear_assembly.png) ![](images/309lf_rear_assembly.png)
 
 #### 3.9.2 Right Rear Assembly
 
-<img src="images/309re_rear_assembly.png" width="45%"></img> <img src="images/309rf_rear_assembly.png" width="45%"></img>
+![](images/309re_rear_assembly.png) ![](images/309rf_rear_assembly.png)
 
 ### 3.10 Rocker Bogie Front Assembly (L/R)
 
@@ -270,11 +270,11 @@ Attach the _Front Servo Arm_ and _Middle Wheel_ to the hinge using 12mm socket h
 
 #### 3.10.1 Left Front Assembly
 
-<img src="images/310le_front_assembly.png" width="45%"></img> <img src="images/310lf_front_assembly.png" width="45%"></img>
+![](images/310le_front_assembly.png) ![](images/310lf_front_assembly.png)
 
 #### 3.10.2 Right Front Assembly
 
-<img src="images/310re_front_assembly.png" width="45%"></img> <img src="images/310rf_front_assembly.png" width="45%"></img>
+![](images/310re_front_assembly.png) ![](images/310rf_front_assembly.png)
 
 ### Next Steps
 

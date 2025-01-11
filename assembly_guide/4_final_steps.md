@@ -33,11 +33,11 @@ Insert the _Rocker Bogie_ into the _Main Body_, slide another spacer ring onto t
 
 #### 4.1.1 Insert Left Rocker Bogie
 
-<img src="images/401le_rocker_bogie.png" width="45%"></img> <img src="images/401lf_rocker_bogie.png" width="45%"></img>
+![](images/401le_rocker_bogie.png) ![](images/401lf_rocker_bogie.png)
 
 #### 4.1.2 Insert Right Rocker Bogie
 
-<img src="images/401re_rocker_bogie.png" width="45%"></img> <img src="images/401rf_rocker_bogie.png" width="45%"></img>
+![](images/401re_rocker_bogie.png) ![](images/401rf_rocker_bogie.png)
 
 ### 4.2 Differential Pivot Attachment
 
@@ -52,7 +52,7 @@ Insert the _Rocker Bogie_ into the _Main Body_, slide another spacer ring onto t
 
 Insert the loose _Steel Ball Bearings_ of the _Rocker Bogies_ into the _U-Channel_ on top of the _Main Body_. Secure them in hole `2` (counting from each end) with a 20mm socket head screw and Nylock nut.
 
-<img src="images/402e_differential_pivot.png" width="45%"></img> <img src="images/402f_differential_pivot.png" width="45%"></img>
+![](images/402e_differential_pivot.png) ![](images/402f_differential_pivot.png)
 
 ### 4.3 Front Wheels
 
@@ -73,7 +73,7 @@ Insert the loose _Steel Ball Bearings_ of the _Rocker Bogies_ into the _U-Channe
 
 Once the servo is centered, one of the non-threaded holes of the servo shaft should point _exactly_ to the front of the rover. If necessary, remove the servo shaft and reinstall it in the correct orientation. Attach the _Corner Wheels_ to the servo shafts using four 12mm socket head screws.
 
-<img src="images/403e_wheels_front.png" width="45%"></img> <img src="images/403f_wheels_front.png" width="45%"></img>
+![](images/403e_wheels_front.png) ![](images/403f_wheels_front.png)
 
 ### 4.4 Rear Wheels
 
@@ -94,7 +94,7 @@ Once the servo is centered, one of the non-threaded holes of the servo shaft sho
 
 Once the servo is centered, one of the non-threaded holes of the servo shaft should point _exactly_ to the back of the rover. If necessary, remove the servo shaft and reinstall it in the correct orientation. Attach the _Corner Wheels_ to the servo shafts using four 12mm socket head screws.
 
-<img src="images/404e_wheels_rear.png" width="45%"></img> <img src="images/404f_wheels_rear.png" width="45%"></img>
+![](images/404e_wheels_rear.png) ![](images/404f_wheels_rear.png)
 
 ### Next Steps
 
