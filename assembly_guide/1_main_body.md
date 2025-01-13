@@ -212,7 +212,7 @@ Secure the _U-Beam_ to the _Idler Bearing-Hub_ using the 6mm button head screws.
 
 - [x] 1 Main Body
 - [ ] [2 Wheels](2_wheels.md)
-- [ ] [3 Rocker Bogie](2_wheels.md)
+- [ ] [3 Rocker Bogie](3_rocker_bogie.md)
 - [ ] [4 Final Steps](4_final_steps.md)
 
 Continue with building the [Wheels](2_wheels.md)!
