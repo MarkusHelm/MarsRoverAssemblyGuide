@@ -86,7 +86,7 @@ Remember to feed the required cables through the _goRAIL_ before installing the 
 
 - [x] [1 Main Body](1_main_body.md)
 - [x] 2 Wheels
-- [ ] [3 Rocker Bogie](2_wheels.md)
+- [ ] [3 Rocker Bogie](3_rocker_bogie.md)
 - [ ] [4 Final Steps](4_final_steps.md)
 
 Continue with building the [Rocker Bogie](3_rocker_bogie.md)!
