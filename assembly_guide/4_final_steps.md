@@ -102,7 +102,7 @@ Once the servo is centered, one of the non-threaded holes of the servo shaft sho
 
 - [x] [1 Main Body](1_main_body.md)
 - [x] [2 Wheels](2_wheels.md)
-- [x] [3 Rocker Bogie](2_wheels.md)
+- [x] [3 Rocker Bogie](3_rocker_bogie.md)
 - [x] 4 Final Steps
 
 Continue with the electrical guides to bring your rover to life!
